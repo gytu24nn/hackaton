@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    border-top: solid black 1px;
+    padding: 20px;
+}
+
+#tuva{
+    border-bottom: solid black 1px;
+}
