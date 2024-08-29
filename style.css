@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    
+}
+li{
+    list-style: none;
+}
+button{
+    background-color: lightblue;
+    color: white;
+}
