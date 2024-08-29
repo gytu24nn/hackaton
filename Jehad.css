@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(202, 202, 196);
+}
+
+li {
+  margin: 4px;
+  color: white;
+  list-style: none;
+  font-size: 20px;
+  text-shadow: 4px 4px rgb(117, 106, 106);
+}
+li:hover {
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: 2s ease-in-out linear;
+  font-size: large;
+}
+img {
+  margin-left: 42%;
+}
+img:hover {
+  border-radius: 50%;
+  transition: 3s ease-in-out;
+}
+h1 {
+  text-align: center;
+}
+a {
+}
